@@ -1,2 +1,2 @@
-# IPFinder
-A Java program that when ran provides the IP address of the host.
+# Data Comm
+Repo for all Data Comm related projects
